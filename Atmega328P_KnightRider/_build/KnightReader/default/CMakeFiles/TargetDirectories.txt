@@ -1,0 +1,4 @@
+C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default/CMakeFiles/KnightReader_default_default_XC8_compile.dir
+C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default/CMakeFiles/KnightReader_default_image_iO16QJ5_.dir
+C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default/CMakeFiles/edit_cache.dir
+C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default/CMakeFiles/rebuild_cache.dir

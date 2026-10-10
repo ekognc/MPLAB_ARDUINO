@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.10\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__ATmega328P__ -D__DEBUG=1 -IC:\\Projects\\GitHub\\MPLAB_ARDUINO\\Atmega328P_KnightRider\\cmake\\KnightReader\\default\\..\\..\\.. -c -mcpu=ATmega328P -x c -mdfp=C:/Users/emreo/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -LC:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/cmake/KnightReader/default/../../.. -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\KnightReader_default_default_XC8_compile.dir\\C_\\Projects\\GitHub\\MPLAB_ARDUINO\\Atmega328P_KnightRider\\SourceFiles\\src\\main.c.o -c C:\\Projects\\GitHub\\MPLAB_ARDUINO\\Atmega328P_KnightRider\\SourceFiles\\src\\main.c",
+  "file": "C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/SourceFiles/src/main.c",
+  "output": "C:/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/_build/KnightReader/default/CMakeFiles/KnightReader_default_default_XC8_compile.dir/C_/Projects/GitHub/MPLAB_ARDUINO/Atmega328P_KnightRider/SourceFiles/src/main.c.o"
+}
+]
